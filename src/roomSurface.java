@@ -1,5 +1,15 @@
 
 import java.util.Scanner;
+
+/**Class: ITEC 2140
+ * AUTHOR : Jamarian St. Aimee
+ * version 1.0
+ * Course: ITEC 2140 SPRING 2023
+ * WRITTEN: FEBUARY 4 203
+ *
+ * DESCRIPTION: FINDING HOW MANY GALLONS AND QUARTS OF PAINT WILL BE NEEDED FOR THE ROOM
+ */
+
 public class roomSurface {
     public static void main(String[]args) {
         Scanner input = new Scanner(System.in);

@@ -1,3 +1,15 @@
+/**Class: ITEC 2140
+ * AUTHOR : Jamarian St. Aimee
+ * version 1.0
+ * Course: ITEC 2140 SPRING 2023
+ * WRITTEN: FEBUARY 4 203
+ *
+ * DESCRIPTION: FINDING THE TOTAL NUMBER OF HOURS AND MINUTES ARE IN A SECOND
+ */
+
+
+
+
 
 import java.util.Scanner;
         public class TimeCalc {
